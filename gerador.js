@@ -23,6 +23,7 @@ function geraSenha() {
             senha.push(letrasGeradas[i]);
         }
     }
+    //teste
     
     let senhaGerada = senha.join('');
 
